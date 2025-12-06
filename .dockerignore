@@ -1,0 +1,17 @@
+node_modules
+.next
+.git
+.env
+.env.local
+.env.production
+python-server/venv
+python-server/__pycache__
+*.pyc
+.DS_Store
+certbot
+nginx
+README.md
+.gitignore
+deploy.sh
+docker-compose.prod.yml
+
